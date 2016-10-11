@@ -5,7 +5,7 @@
 //  Created by WD on 16/10/12.
 //  Copyright © 2016年 WD. All rights reserved.
 //  相关博客：http://blog.csdn.net/Cehae/article/details/52793701
-//  相关博客：http://blog.csdn.net/Cehae/article/details/52793701
+//  Github：https://github.com/Cehae/WDEncryptionDemo
 
 #import "ViewController.h"
 #import "NSString+Hash.h"
